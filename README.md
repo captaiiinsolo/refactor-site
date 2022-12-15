@@ -13,8 +13,8 @@ Examples can be seen below:
 ### Snippet of Refactored HTML Code
 ![example of the clients code after the refactor](assets/images/refactoredCode.png)
 
-### Deployed Site
-[deployed site](https://captaiiinsolo.github.io/refactor-site/)
+#### [Deployed Site](https://captaiiinsolo.github.io/refactor-site/)
+
 
 
 ## Installation
